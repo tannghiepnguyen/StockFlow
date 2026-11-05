@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StockFlow.AppHost/StockFlow.AppHost.csproj" />
+  <Project Path="StockFlow.ServiceDefaults/StockFlow.ServiceDefaults.csproj" />
+</Solution>

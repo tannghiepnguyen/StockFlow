@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "StockFlow.AppHost/StockFlow.AppHost.csproj"
+  }
+}
