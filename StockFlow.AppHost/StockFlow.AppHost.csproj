@@ -9,4 +9,12 @@
         <UserSecretsId>7011d144-594b-40ad-8487-bbb97bb1aeba</UserSecretsId>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Aspire.Hosting.JavaScript" Version="13.6.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="../backend/API/API.csproj" />
+    </ItemGroup>
+
 </Project>
