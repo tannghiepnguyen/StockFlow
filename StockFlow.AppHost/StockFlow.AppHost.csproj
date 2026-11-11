@@ -11,6 +11,7 @@
 
     <ItemGroup>
       <PackageReference Include="Aspire.Hosting.JavaScript" Version="13.6.4" />
+      <PackageReference Include="Scalar.Aspire" Version="0.13.0" />
     </ItemGroup>
 
     <ItemGroup>
